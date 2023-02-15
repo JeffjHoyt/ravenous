@@ -2,6 +2,7 @@
   "name": "ravenous",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jeffjhoyt.github.io/ravenous",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -38,6 +39,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://jeffjhoyt.github.io/ravenous"
+  }
 }
